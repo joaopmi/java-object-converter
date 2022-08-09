@@ -3,5 +3,5 @@
         <dependency>
             <groupId>java.converter</groupId>
             <artifactId>java-object-converter</artifactId>
-            <version>2.0.4</version>
+            <version>2.0.5</version>
         </dependency>
